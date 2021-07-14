@@ -18,5 +18,17 @@ Front-end – Tkinter Library.
 
 Summarization - NLTK, SPACY, SUMY, GENSIM.
 
+https://github.com/nayakapoorva/Text-Summerization/blob/main/Text.jfif
+
+# Design
+
+<p align="center">
+  <img src="https://github.com/nayakapoorva/Text-Summerization/blob/main/Text.jfif" width="500" height="500" title="hover text">
+</p>
+
+# Conclusion
+Automated summarization is an important area in NLP (Natural Language Processing). It consists of automatically creating a summary of one or more texts. The purpose of extractive document summarization is to automatically select a number of indicative sentences, passages, or paragraphs from the original document. Most summarization techniques are based on extractive methods. Abstractive method is similar to summaries made by humans.
+
+
 
 
